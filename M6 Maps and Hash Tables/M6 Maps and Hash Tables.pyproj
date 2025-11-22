@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8ba9c708-ffd5-4e52-bed7-11b73909734e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>M6_Maps_and_Hash_Tables.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="M6_Maps_and_Hash_Tables.py" />
+    <Compile Include="main.py" />
     <Compile Include="schedule.py" />
     <Compile Include="schedule_item.py" />
   </ItemGroup>
