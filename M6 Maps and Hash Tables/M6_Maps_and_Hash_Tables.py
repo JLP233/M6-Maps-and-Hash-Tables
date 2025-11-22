@@ -1,1 +1,1 @@
-
+#The Course Schedule System loads course data from a CSV file into a hash-table dictionary and provides a menu that lets users display the full schedule or search for courses by subject, catalog number, or instructor.
